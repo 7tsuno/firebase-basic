@@ -27,6 +27,14 @@ cd firebase-basic
 npm install -g firebase-tools
 ```
 
+ログインしておく
+
+```bash
+firebase login
+```
+
+OAuthが出るので適切なアカウントでログイン。
+
 ### 4. npmライブラリインストール
 
 ```bash
